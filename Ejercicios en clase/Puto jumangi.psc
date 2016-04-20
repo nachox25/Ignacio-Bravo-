@@ -53,6 +53,7 @@ Proceso sin_titulo
 			avance2 <- 27 - dif2;
 		FinSi
 		Escribir "usted esta en la casilla: ",avance2;
+		/////////////////Condiciones/////////////////////
 		si avance2 =2 o avance2 = 4 o avance2 = 6 o avance2 = 8 o avance2 = 10 o avance2 = 12 o avance2 = 14 o avance2 = 16 o avance2 = 18 o avance2 = 20 o avance2 = 22 o avance2 = 24 o avance2 = 26 Entonces
 			avance2 <- avance2+2;
 		Sino
@@ -86,6 +87,7 @@ Proceso sin_titulo
 			avance1 <- 27 - dif1;
 		FinSi
 		Escribir "Usted esta en la casilla: ",avance3;
+		//////////////////Condiciones/////////////////////////////
 		si avance3 =2 o avance3 = 4 o avance3 = 6 o avance3 = 8 o avance3 = 10 o avance3 = 12 o avance3 = 14 o avance3 = 16 o avance3 = 18 o avance3 = 20 o avance3 = 22 o avance3 = 24 o avance3 = 26 Entonces
 			avance3 <- avance3+2;
 		Sino
