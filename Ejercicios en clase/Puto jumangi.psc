@@ -40,7 +40,7 @@ Proceso sin_titulo
 				FinSi				
 			FinSi
 		FinSi
-	
+	        avance <- 0;
 		Escribir "Jugador 2";
 		dado1 <- azar(6) + 1;
 		dado2 <- azar(6) + 1;
